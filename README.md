@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at my [Github](https://github.com/jatiinyadav?tab=repositories)
-
 - 💬 Ask me about **HTML, CSS**
 
 - ⚡ Fun fact **I am a Teetotaller**
