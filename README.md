@@ -1,7 +1,7 @@
 <h1 align="center">I'm Jatin Yadav😎</h1>
 <h3 align="center">Front End Developer 👨‍💻 | Pythoneer 🐍</h3>
 
-<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" /><br>
+<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" /
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" /> </p>
@@ -14,9 +14,9 @@
 
 - ⚡ Fun fact **I am a Teetotaller**
 
--  😉 Check my [Portfolio](https://jatiinyadav.github.io/PersonalWeb/) website here.
+-  😉 Check my [Portfolio](https://jatiinyadav.github.io/PersonalWeb/) website here.<br>
 
-<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=merko" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=merko" />
 
 <br><h2 align="center" >Connect with me</h2>
 <div align="center">
