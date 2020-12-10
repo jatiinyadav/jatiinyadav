@@ -12,11 +12,9 @@
 
 - 💬 Ask me about **HTML, CSS**
 
-- ⚡ Fun fact **I am a Teetotaller**<br>
+- ⚡ Fun fact **I am a Teetotaller**
 
-- ⚡ Fun fact **I am a Teetotaller**<br>
-
-- ⚡ Fun fact **I am a Teetotaller**<br>
+-  😉 Check my [Portfolio](https://jatiinyadav.github.io/PersonalWeb/) website here.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=merko" />
 
