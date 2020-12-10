@@ -1,7 +1,7 @@
 <h1 align="center">I'm Jatin Yadav😎</h1>
 <h3 align="center">Front End Developer 👨‍💻 | Pythoneer 🐍</h3>
 
-<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" /><br><br><br>
+<img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" /> </p>
@@ -11,6 +11,10 @@
 - 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **HTML, CSS**
+
+- ⚡ Fun fact **I am a Teetotaller**<br>
+
+- ⚡ Fun fact **I am a Teetotaller**<br>
 
 - ⚡ Fun fact **I am a Teetotaller**<br>
 
