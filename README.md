@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I am a Teetotaller**
 
--  😉 Check my [Portfolio](https://jatiinyadav.github.io/PersonalWeb/) website here.<br>
+-  😉 Check my [Portfolio](https://jatiinyadav.github.io/PersonalWeb/) website here.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=merko" />
 
