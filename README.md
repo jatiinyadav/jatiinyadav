@@ -14,9 +14,9 @@
 
 - ⚡ Fun fact **I am a Teetotaller**
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=merko" /<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=merko" /
 
-<h2 align="center" >Connect with me</h2>
+<h2 align="right" >Connect with me</h2>
 <div align="center">
 <a href="https://github.com/jatiinyadav" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
