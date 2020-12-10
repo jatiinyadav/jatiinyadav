@@ -16,7 +16,7 @@
 
 -  😉 Check my [Portfolio](https://jatiinyadav.github.io/PersonalWeb/) website here.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=merko" />
+<br><img align="left" src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=merko" />
 
 <br><h2 align="center" >Connect with me</h2>
 <div align="center">
