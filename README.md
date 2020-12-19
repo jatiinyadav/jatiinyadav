@@ -16,8 +16,6 @@
 
 -  😉 Check my [Portfolio](http://jatiinyadav.me/) website here.
 
--  😉 Check my [Portfolio](http://jatiinyadav.me/) website here.
-
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=merko" />
 
 <br><h2 align="center" >Connect with me</h2>
