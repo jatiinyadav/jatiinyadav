@@ -1,5 +1,5 @@
 <h1 align="center">I'm Jatin Yadav😎</h1>
-<h3 align="center">Front End Developer 👨‍💻 | Pythoneer 🐍</h3>
+<h3 align="center">Front End Developer 👨‍💻 | DSC WOW Campus Ambassador ⚛️ | Pythoneer 🐍</h3>
 
 <img align="right" alt="GIF" src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 
