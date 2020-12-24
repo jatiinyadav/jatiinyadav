@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **HTML, CSS**
 
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/jatiinyadav?tab=repositories)
+
 - ⚡ Fun fact **I am a Teetotaller**
 
 -  😉 Check my [Portfolio](http://jatiinyadav.me/) website here.
