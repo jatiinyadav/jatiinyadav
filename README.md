@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am a Teetotaller**
 
--  😉 Check my [Portfolio](http://jatiinyadav.me/) website here.
+-  😉 Check my [Portfolio](http://jatiinyadav.me/)here.
 
 <h2 align="center">⚡️ Technology Stacks</h2>
 <p align="center">
@@ -25,7 +25,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://devicon.dev/devicon.git/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height"40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height"40"/>
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
@@ -39,4 +39,3 @@
   <a href="mailto:jatin27yadav@gmail.com?subject=Hello%20Jatin,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/jatiin_yadav/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
