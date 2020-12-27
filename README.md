@@ -26,26 +26,17 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height"40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="javascript" width="40" height="40"/>
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=algolia" />
 </p>
+<h2 align="center">📫 Reach out to me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/jatin-yadav-77409b19b//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/jatiinyadav"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jatin27yadav@gmail.com?subject=Hello%20Jatin,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/jatiin_yadav/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<br><h2 align="center" >Connect with me</h2>
-<div align="center">
-<a href="https://github.com/jatiinyadav" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/jatiinyadav" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/jatin-yadav-77409b19b/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:jatin27yadav@gmail.com?hl=en" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=instagram style="margin-bottom: 5px;" />
-</a> 
-</div> 
