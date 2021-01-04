@@ -20,11 +20,11 @@
 
 <h2 align="center">⚡️ Technology Stacks</h2>
 <p align="center">
- <img src="https://img.icons8.com/color/480/000000/c-programming.png" />
- <img src="https://img.icons8.com/color/480/000000/kotlin.png" />
- <img src="https://img.icons8.com/color/480/000000/python.png" />
- <img src="https://img.icons8.com/color/480/000000/adobe-after-effects.png" />
- <img src="https://img.icons8.com/color/480/000000/adobe-premiere-pro.png" />
+ <img src="https://img.icons8.com/color/480/000000/c-programming.png" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/kotlin.png" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/python.png"width ="50" height ="50" />
+ <img src="https://img.icons8.com/color/480/000000/adobe-after-effects.png" width ="50" height ="50"/>
+ <img src="https://img.icons8.com/color/480/000000/adobe-premiere-pro.png" width ="50" height ="50"/>
 </p>
 
 <h2 align="center">🐦 Github Statistics </h2>
