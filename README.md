@@ -24,7 +24,7 @@
  <img src="https://img.icons8.com/color/480/000000/css3.png" alt ="CSS3" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/javascript.png" alt = " JS" width ="50" height ="50" />
  <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" alt ="VSC" width ="50" height ="50"/>
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt = "Android Studio"width ="50" height ="50"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt = "Android Studio" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/c-programming.png" alt ="C" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/kotlin.png" alt ="KOTLIN" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/python.png" alt = "Python" width ="50" height ="50" />
