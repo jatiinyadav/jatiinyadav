@@ -37,12 +37,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=algolia" />
 </p>
 
-<h2> <summary align="center">GitHub Trophies 🏆</summary></h2>
+<h2> <summary align="center">🏆 GitHub Trophies </summary></h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=jatiinyadav&theme=gruvbox"/>
+    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=jatiinyadav&theme=onedark)](https://github.com/jatiinyadav/github-profile-trophy)"/>
   </a>
 </p>
+
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jatin-yadav-77409b19b//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
