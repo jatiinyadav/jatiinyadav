@@ -37,6 +37,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=algolia" />
 </p>
 
+<h2 align="center">🐦 Github Trophies </h2>
+<p align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=jatiinyadav&theme=onedark)](https://github.com/jatiinyadavgithub-profile-trophy)
+</p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jatiinyadav)](https://github.com/jatiinyadavgithub-profile-trophy)
 
 <h2 align="center">📫 Reach out to me on</h2>
