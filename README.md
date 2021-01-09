@@ -40,7 +40,7 @@
 <h2> <summary align="center">🏆 GitHub Trophies </summary></h2>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=jatiinyadav&theme=onedark)](https://github.com/jatiinyadav/github-profile-trophy)"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jatiinyadav&theme=dracula"/>
   </a>
 </p>
 
