@@ -39,7 +39,6 @@
 
 <h2 align="center">🏆 Github Trophies </h2>
 [![trophy](https://github-profile-trophy.vercel.app/?username=jatiinyadav&theme=onedark)](https://github.com/jatiinyadavgithub-profile-trophy)
-</p>
 
 
 <h2 align="center">📫 Reach out to me on</h2>
