@@ -32,15 +32,17 @@
  <img src="https://img.icons8.com/color/480/000000/adobe-premiere-pro.png" alt = "PREMIERE PRO"width ="50" height ="50"/>
 </p>
 
-<h2 align="center">🐦 Github Statistics </h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=algolia" />
-</p>
 
 <h2> <summary align="center">🏆 GitHub Trophies </summary></h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jatiinyadav&theme=darkhub&row=1&no-frame=true&no-bg=true" />
 </p>
+
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=algolia" />
+</p>
+
 
 <h2 align="center">📫 Reach out to me on</h2>
 <p align="center">
