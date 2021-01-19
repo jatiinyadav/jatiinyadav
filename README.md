@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" /> </p>
 
-- 🔭 I’m currently working on **Flask**
+- 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development, Flask**
 
 - 💬 Ask me about **HTML, CSS, Kotlin**
 
