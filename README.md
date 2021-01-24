@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am a Video Editor**
 
--  😉 Check my [Portfolio](http://jatiinyadav.me/) here.
+-  😉 Check my [Portfolio](http://jatiinyadav.github.io/) here.
 
 <h2 align="center">⚡️ Technology Stacks</h2>
 <p align="center">
