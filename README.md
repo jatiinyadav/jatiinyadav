@@ -33,13 +33,6 @@
 </p>
 
 
-<!-- <h2> <summary align="center">🏆 GitHub Trophies </summary></h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jatiinyadav&theme=darkhub&row=1&no-frame=true&no-bg=true" />
-</p>-->
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jatiinyadav)
-
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=algolia" />
