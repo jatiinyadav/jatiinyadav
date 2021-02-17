@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/jatiinyadav?tab=repositories)
 
-- ⚡ Fun fact **I am a Video Editor**
+- 🎥 I am a **Video Editor**
 
 -  😉 Check my [Portfolio](http://jatiinyadav.github.io/) here.
 
