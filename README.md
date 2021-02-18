@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" /> </p>
 
-- 🔭 I’m currently working on **MERN**
-
 - 🌱 I’m currently learning **Web Development, Flask**
 
 - 💬 Ask me about **HTML, CSS, Kotlin**
