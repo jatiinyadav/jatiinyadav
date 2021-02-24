@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development**.
 
-- 💬 Ask me about **HTML, CSS, Kotlin**
+- 💬 Ask me about **HTML, CSS, Kotlin**.
 
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/jatiinyadav?tab=repositories)
 
