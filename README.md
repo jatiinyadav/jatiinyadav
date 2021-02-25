@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **HTML, CSS, Kotlin**.
 
-- 👨‍💻 All of my projects are available at my [Github](https://github.com/jatiinyadav?tab=repositories)
+- 👨‍💻 All of my projects are available at my [Github](https://github.com/jatiinyadav?tab=repositories).
 
 - 🎥 I am a **Video Editor**
 
