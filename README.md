@@ -21,6 +21,7 @@
  <img src="https://img.icons8.com/color/480/000000/html-5.png" alt ="HTML5" width ="50" height ="50" />
  <img src="https://img.icons8.com/color/480/000000/css3.png" alt ="CSS3" width ="50" height ="50"/>
  <img src="https://img.icons8.com/color/480/000000/javascript.png" alt = " JS" width ="50" height ="50" />
+ <img src="https://img.icons8.com/color/480/000000/sass.png" alt = " Sass" width ="50" height ="50" />
  <img src="https://img.icons8.com/color/480/000000/python.png" alt = "Python" width ="50" height ="50" />
  <img src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png" alt ="VSC" width ="50" height ="50"/>
 <img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt ="Android-Studio" width ="55" height ="55"/>
