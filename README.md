@@ -38,7 +38,7 @@
 </p>
 
 
-<h2 align="center">📫 Reach out to me on</h2>
+<h2 align="center"> <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px"> Reach out to me on</h2>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/jatin-yadav-77409b19b//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/jatiin_yadav"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
