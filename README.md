@@ -1,5 +1,5 @@
 <h1 align="center">Hi, <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> I'm  Jatin Yadav </h1>
-<h3 align="center"> | Front End Developer 👨‍💻 | DSC WoW Campus Ambassador ⚛️ | </h3>
+<h3 align="center"> | Front End Developer 👨‍💻 | DSC WoW Campus Ambassador ⚙ | DevScript Winter of Code'21 ⚛️ |  </h3>
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif" width="300px"/>
 
