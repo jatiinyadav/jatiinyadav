@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" /> </p>
 
-- 🌱 I’m currently learning **Web Development**.
+- 💻 I’m currently learning **Web Development**.
 
 - 💬 Ask me about **HTML, Sass, Kotlin**.
 
