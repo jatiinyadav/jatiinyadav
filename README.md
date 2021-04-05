@@ -13,8 +13,6 @@
 - 👨‍💻 All of my projects are available at my [Github](https://github.com/jatiinyadav?tab=repositories).
 
 - 🎥 I am a **Video Editor**.
-- ### Languages and Frameworks:
-<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 
 -  😉 Check my [Portfolio](http://jatiinyadav.github.io/) here.
 
