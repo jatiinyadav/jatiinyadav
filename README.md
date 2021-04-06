@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif" width="300px"/>
 
-<!--<p> <img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" /> </p>-->
+<p> <img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" /> </p>
 
 - 💻 I’m currently learning **Web Development**. </h4>
 
