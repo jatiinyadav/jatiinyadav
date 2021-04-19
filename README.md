@@ -23,6 +23,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title ="VSC"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/sass.png" title = " Sass"  /></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" title = "Bootstrap"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
