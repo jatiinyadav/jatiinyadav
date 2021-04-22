@@ -1,5 +1,5 @@
 <h1>Hi, I'm  Jatin Yadav </h1>
-<h4>| Front End Developer 👨‍💻 | Campus Ambassador at Coding Ninja's ✨ |  DevScript Winter of Code'21 ⚛️ | DSC WoW Campus Ambassador ⚙ | </h4> <br>
+<h4>| Front End Developer 👨‍💻 | Campus Ambassador at Coding Ninja's ✨ |  DevScript Winter of Code'21 ⚛️ | </h4> <br>
 
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif" width="300px"/>
 
