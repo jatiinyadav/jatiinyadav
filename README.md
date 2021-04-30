@@ -1,7 +1,7 @@
 <h1>Hi, I'm  Jatin Yadav </h1>
 <h4>| Front End Developer 👨‍💻 | Campus Ambassador at Coding Ninja's ✨ |  DevScript Winter of Code'21 ⚛️ | </h4> <br>
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif" width="300px"/>
+<!--<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif" width="300px"/>-->
 
 <p> <img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" /> </p>
 
