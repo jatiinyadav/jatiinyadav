@@ -35,7 +35,7 @@
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin"/></code>
 <code><img width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt ="Android-Studio"/></code>
  
-### Github Statistics
+### Github Statistics:
 <img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=algolia" />
 
 ### Connect with me 
