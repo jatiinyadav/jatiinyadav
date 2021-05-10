@@ -38,7 +38,7 @@
 ### Github Statistics:
 <img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=algolia" />
 
-### Connect with me 
+### Connect with me:
 <code><a href="https://www.linkedin.com/in/jatin-yadav-77409b19b/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="https://www.instagram.com/jatiin_yadav"><img width="40px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 <code><a href="https://twitter.com/jatiin_yadav"><img width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" title="Twitter"/></a></code>
