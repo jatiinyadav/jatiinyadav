@@ -15,7 +15,7 @@
 
 - 😉 Check my [Portfolio](http://jatiinyadav.github.io/) here.
 
-- 📄 You can have a look at my [Resume](https://drive.google.com/file/d/1aNbDpx8bW-MBieThD4ngFkB_q274iYFZ/view?usp=sharing).
+- 📄 My [Resume](https://drive.google.com/file/d/1aNbDpx8bW-MBieThD4ngFkB_q274iYFZ/view?usp=sharing).
 
 <br>
 
