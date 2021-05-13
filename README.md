@@ -1,5 +1,5 @@
+![Untitled design (1)](https://user-images.githubusercontent.com/73248007/118081318-bb343200-b3d8-11eb-8089-617050412be2.png)
 
-![Jatin Yadav](https://user-images.githubusercontent.com/73248007/118080356-ac00b480-b3d7-11eb-97da-09bfe8f627bd.png)
 
 
 ### Languages and Softwares:
