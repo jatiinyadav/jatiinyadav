@@ -1,23 +1,6 @@
-<h1>Hi, I'm  Jatin Yadav </h1>
-<h4>| Front End Developer 👨‍💻 | Campus Ambassador at Coding Ninja's ✨ |  DevScript Winter of Code'21 ⚛️ | </h4> <br>
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2145071/screenshots/4503713/dev.gif" width="300px"/>
+![Jatin Yadav](https://user-images.githubusercontent.com/73248007/118080356-ac00b480-b3d7-11eb-97da-09bfe8f627bd.png)
 
-<p> <img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" /> </p>
-
-- 💻 I’m currently learning **Flutter**. </h4>
-
-- 💬 Ask me about **HTML, Sass, Kotlin**.
-
-- 👨‍💻 All of my projects are available at my [Github](https://github.com/jatiinyadav?tab=repositories).
-
-- 🎥 I am a **Video Editor**.
-
-- 😉 Check my [Portfolio](http://jatiinyadav.github.io/) here.
-
-- 📄 My [Resume](https://drive.google.com/file/d/1aNbDpx8bW-MBieThD4ngFkB_q274iYFZ/view?usp=sharing).
-
-<br>
 
 ### Languages and Softwares:
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
