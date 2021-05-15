@@ -19,7 +19,7 @@
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>-->
  
 ### Github Statistics:
-<img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&count_private=true&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&&show_icons=true&count_private=true&theme=algolia" />
 
 ### Connect with me:
 <code><a href="https://www.linkedin.com/in/jatin-yadav-77409b19b/"><img width="40px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
