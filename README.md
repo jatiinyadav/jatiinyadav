@@ -1,6 +1,4 @@
-![Untitled design (1)](https://user-images.githubusercontent.com/73248007/118081318-bb343200-b3d8-11eb-8089-617050412be2.png)
-
-
+![github_readme](https://user-images.githubusercontent.com/73248007/118408508-85769e00-b6a3-11eb-8f47-a3621e8605cd.png)
 
 ### Languages and Softwares:
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
