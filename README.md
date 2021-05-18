@@ -2,9 +2,8 @@
 
 ### Languages and Softwares:
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/sass.png" title = " Sass"  /></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" title = "Bootstrap"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/dart.png" title = "Dart"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
