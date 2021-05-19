@@ -1,7 +1,7 @@
 ![github_readme](https://user-images.githubusercontent.com/73248007/118408508-85769e00-b6a3-11eb-8f47-a3621e8605cd.png)
 
 ### Languages and Softwares:
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
+<!--<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>-->
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/sass.png" title = " Sass"  /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" title = "Bootstrap"/></code>
