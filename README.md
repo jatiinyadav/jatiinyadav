@@ -1,17 +1,17 @@
 ![github_readme](https://user-images.githubusercontent.com/73248007/118408508-85769e00-b6a3-11eb-8f47-a3621e8605cd.png)
 
 ### Languages and Softwares:
-<!--<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>-->
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/sass.png" title = " Sass"  /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" title = "Bootstrap"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/dart.png" title = "Dart"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/></code>
+<code><img width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt ="Android-Studio"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" title = "After Effects"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" title = "PREMIERE PRO"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin"/></code>
-<code><img width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt ="Android-Studio"/></code>
 <!--<code><img width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title ="VSC"/></code>
 <code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>-->
  
