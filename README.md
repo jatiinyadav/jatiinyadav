@@ -1,4 +1,5 @@
-![github_readme](https://user-images.githubusercontent.com/73248007/118408508-85769e00-b6a3-11eb-8f47-a3621e8605cd.png)
+![Readme Github](https://user-images.githubusercontent.com/73248007/120209226-0f01a080-c24c-11eb-9ec3-18ad7ae9921e.png)
+
 
 ### Languages and Softwares:
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/sass.png" title = " Sass"  /></code>
