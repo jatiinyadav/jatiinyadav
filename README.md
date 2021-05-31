@@ -1,4 +1,4 @@
-![Readme Github](https://user-images.githubusercontent.com/73248007/120209226-0f01a080-c24c-11eb-9ec3-18ad7ae9921e.png)
+![Readme Github (4)](https://user-images.githubusercontent.com/73248007/120210144-15dce300-c24d-11eb-81fd-e72ee2aacfa8.png)
 
 
 ### Languages and Softwares:
