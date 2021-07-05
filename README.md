@@ -1,5 +1,6 @@
 ![Readme Github (4)](https://user-images.githubusercontent.com/73248007/120210144-15dce300-c24d-11eb-81fd-e72ee2aacfa8.png)
 
+ <!--<img src="https://github-hero-readme.vercel.app/api?username=jatiinyadav&linkedin=jatiinyadav&twitter=jatiin_yadav&description=App Developer | Web Developer | Video Editor" width="100%">-->
 
 ### Languages and Softwares:
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/sass.png" title = " Sass"  /></code>
