@@ -1,4 +1,4 @@
-<!--<img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" />-->
+<img src="https://komarev.com/ghpvc/?username=jatiinyadav&label=Profile+Views" alt="jatiinyadav" />
 
 ![Readme Github (4)](https://user-images.githubusercontent.com/73248007/120210144-15dce300-c24d-11eb-81fd-e72ee2aacfa8.png)
 
