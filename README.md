@@ -4,12 +4,11 @@
 
  <!--<img src="https://github-hero-readme.vercel.app/api?username=jatiinyadav&linkedin=jatiinyadav&twitter=jatiin_yadav&description=App Developer | Web Developer | Video Editor" width="100%">-->
 
-
+<!--  <code><img width="40px" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/></code> -->
 ### Languages and Softwares:
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/sass.png" title = " Sass"  /></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript.png" title="Javascript"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" title = "Bootstrap"/></code>
- <code><img width="40px" src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/dart.png" title = "Dart"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title = "VSCode"/></code>
