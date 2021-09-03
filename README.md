@@ -12,10 +12,10 @@
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" title = "Bootstrap"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/dart.png" title = "Dart"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title = "VSCode"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title = "VSCode"/></code>
 <code><img width="40px" src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt ="Android-Studio"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" title = "Photoshop"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" title = "After Effects"/></code>
