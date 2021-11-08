@@ -15,7 +15,7 @@
 <a href = "" ><img width="40px" src="https://img.icons8.com/color/48/000000/bootstrap.png" title = "Bootstrap"/></a>
 <a href = "" ><img width="40px" src="https://img.icons8.com/color/48/000000/dart.png" title = "Dart"/></a>
 <a href = "" ><img width="40px" src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/></a>
-<a href = "" ><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></a>
+<a href = "" ><img width="40px" src="https://img.icons8.com/color/48/c-programming.png" title="C"/></a>
 <a href = "" ><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></a>
 <a href = "" ><img width="40px" src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin"/></a>
 <a href = "" ><img width="40px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title = "VSCode"/></a>
