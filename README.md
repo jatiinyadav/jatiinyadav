@@ -2,6 +2,13 @@
 
 ![Readme Github (4)](https://user-images.githubusercontent.com/73248007/120210144-15dce300-c24d-11eb-81fd-e72ee2aacfa8.png)
 
+<!-- ### Hi, I'm Jatin Yadav 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-jatiinyadav-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/jatiinyadav)](https://www.linkedin.com/in/jatiinyadav/)
+[![Twitter Badge](http://img.shields.io/badge/-@jatiin_yadav-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/jatiin_yadav)](https://twitter.com/jatiin_yadav) 
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:jatin27yadav@gmail.com)](mailto:jatin27yadav@gmail.com) -->
+
+
  <!--<img src="https://github-hero-readme.vercel.app/api?username=jatiinyadav&linkedin=jatiinyadav&twitter=jatiin_yadav&description=App Developer | Web Developer | Video Editor" width="100%">-->
 
 
