@@ -1,4 +1,4 @@
-## Hi, I'm [Jatin Yadav](https://jatiinyadav.github.io) 😄
+## Hi, I'm [Jatin Yadav](https://jatiinyadav.github.io) 😄  
 Web Developer | CA at Coding Ninjas | Skillenza Campus Hustler | Video Editor 
 
 [![Linkedin Badge](https://img.shields.io/badge/-jatiinyadav-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatiinyadav)](https://www.linkedin.com/in/jatiinyadav/)
