@@ -1,5 +1,5 @@
 ## Hi, I'm [Jatin Yadav](https://jatiinyadav.github.io) 😄  
-| Junior Software Engineer - Intern |  
+| Junior Software Developer - Intern |  
 
 [![Linkedin Badge](https://img.shields.io/badge/-jatiinyadav-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatiinyadav)](https://www.linkedin.com/in/jatiinyadav/)
 [![Twitter Badge](http://img.shields.io/badge/-@jatiin_yadav-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jatiin_yadav)](https://twitter.com/jatiin_yadav) 
