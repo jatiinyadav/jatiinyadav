@@ -15,6 +15,12 @@
 ![.NET](https://img.shields.io/badge/-Dotnet-010409?style=flat-square&logo=dotnet)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-010409?style=flat-square&logo=go)
 
-<img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&&show_icons=true&count_private=true&theme=dark" />
+<table>
+  <tr>
+    <td valign="top"><img src="https://pbs.twimg.com/media/GObE3i0WAAAxiZC?format=jpg&name=4096x4096" height=200 width=300/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&&show_icons=true&count_private=true&theme=dark" /></td>
+  </tr>
+</table>
+
 
 <!-- <img src="https://komarev.com/ghpvc/?username=jatiinyadav&style=flat&label=Profile+Views" alt="jatiinyadav" /> -->
