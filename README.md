@@ -17,8 +17,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://pbs.twimg.com/media/GObE3i0WAAAxiZC?format=jpg&name=4096x4096" height=200 width=300/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&&show_icons=true&count_private=true&theme=dark" /></td>
+    <td valign="top"><img src="https://pbs.twimg.com/media/GObE3i0WAAAxiZC?format=jpg&name=4096x4096" height=200 width=300/></td>
   </tr>
 </table>
 
