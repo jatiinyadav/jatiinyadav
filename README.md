@@ -15,6 +15,8 @@
 ![.NET](https://img.shields.io/badge/-Dotnet-010409?style=flat-square&logo=dotnet)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-010409?style=flat-square&logo=go)
 
+NPM Package - https://www.npmjs.com/package/str-text-utils
+
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&&show_icons=true&count_private=true&theme=dark" /></td>
