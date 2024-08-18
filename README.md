@@ -15,7 +15,7 @@
 ![.NET](https://img.shields.io/badge/-Dotnet-010409?style=flat-square&logo=dotnet)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-010409?style=flat-square&logo=go)
 
-NPM Package - https://www.npmjs.com/package/str-text-utils
+NPM Packages: [str-text-utils](https://www.npmjs.com/package/str-text-utils) | [arr-toolkit](https://www.npmjs.com/package/arr-toolkit) 
 
 <table>
   <tr>
