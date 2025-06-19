@@ -17,6 +17,8 @@
 
 NPM Packages: [str-text-utils](https://www.npmjs.com/package/str-text-utils) | [arr-toolkit](https://www.npmjs.com/package/arr-toolkit) 
 
+[Guess Higher](https://guesshigher.com) Built a fun web game where you compare real-world data like car prices and fruit sugar content etc.
+
 <table>
   <tr>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=jatiinyadav&&show_icons=true&count_private=true&theme=dark" /></td>
